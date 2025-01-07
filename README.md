@@ -8,7 +8,7 @@
 
 ### Peer Review
 
-**Reviewer**: 
+**Reviewer**: Bronel Lazar
 
 
-**Reviewer Notes**: 
+**Reviewer Notes**: Good job! the endpoint works well, it gives me the greeting when I input the name, and the code looks to be short and clean.
